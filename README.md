@@ -1,2 +1,2 @@
-# STA-216
-Mostly SAS code for applied statistics.
+# Applied Statistics
+SAS code for applied statistics.
